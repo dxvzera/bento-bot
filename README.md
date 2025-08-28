@@ -7,6 +7,7 @@ Não sei se funciona ainda, as bibliotecas atualizaram. Consiste principalmente 
 
 Python, com a biblioteca Pycord que é um fork de discord.py (descontinuado)
 
-<img width="263" height="471" alt="image" src="https://github.com/user-attachments/assets/a24e5b4b-7236-4259-bfa7-00944409ee0b" />
+<img width="259" height="141" alt="image" src="https://github.com/user-attachments/assets/34a56ef8-27af-486d-b0af-225135b10d91" />
+
 
 ![a4d6sd](https://github.com/user-attachments/assets/ea7f1aae-6c48-466e-ab26-cc9ddd6295af)
