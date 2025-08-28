@@ -578,4 +578,4 @@ async def slowmode(ctx, tempo : Option(int, description="Escolha a quantidade de
 # TOKEN = os.environ['TOKEN']
 # bot.run(TOKEN)
 
-bot.run("MTE0ODQxMTAxNTk4NjQyNTg3Nw.GEKuPR.Ist-5qZpw8U41VRFIjD2Bw1UozsTA0QfaHnnM0")
+bot.run("")
